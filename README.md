@@ -1,6 +1,6 @@
 ### BEM VINDO AO MEU PERFIL 🍏💚📗
 
-Meu nome Helena Giddal 💙
+Meu nome _Helena Giddal_ 💙
 
 - Estou estudando na Alura 
 - Estou me desenvolvendo na linguagem JavaScript
